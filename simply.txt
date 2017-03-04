@@ -1,0 +1,21 @@
+1.dbt-design build and test
+2.agile works in dbt manner.
+3.git s/w to amintain our repository(only s/w)
+
+
+
+john.smith
+
+Accenture123
+
+AKIAZI64446BVKSGBYQ
+
+z/gXZY
+
+git config --global user.name "Kavya"
+git config --global user.email "kavya.nair@accenture.com"
+
+git clone https://github.com/Accenture/adop-doa-materials.git
+
+http
+
